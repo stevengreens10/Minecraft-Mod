@@ -1,5 +1,6 @@
 package com.vertagon.betterchest;
 
+import com.vertagon.betterchest.block.BetterChestBlocks;
 import com.vertagon.betterchest.item.BetterChestItems;
 import com.vertagon.betterchest.proxy.CommonProxy;
 import com.vertagon.betterchest.tab.BetterChestTab;
@@ -31,6 +32,7 @@ public class BetterChestMod {
     	betterChestTab = new BetterChestTab(CreativeTabs.getNextID(), "tab_betterChest");
     	
     	BetterChestItems.setup();
+    	BetterChestBlocks.setup();
     }
     
     @EventHandler

@@ -7,11 +7,12 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-public class BetterChestItem extends Item{
+public class BetterChestItem extends Item {
 
 	public BetterChestItem(String name) {
 		setUnlocalizedName(name);
 		setCreativeTab(BetterChestMod.betterChestTab);
+		setTextureName(BetterChestMod.MODID + ":" + getUnlocalizedName().substring(5));
 		GameRegistry.registerItem(this, getUnlocalizedName().substring(5));
 	}
 	

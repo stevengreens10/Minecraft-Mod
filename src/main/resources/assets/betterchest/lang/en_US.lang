@@ -3,3 +3,6 @@ itemGroup.tab_betterChest=Better Chest
 
 # Items
 item.chestWall.name=Chest Wall
+
+# Blocks
+tile.chestWallBlock.name=Chest Wall
