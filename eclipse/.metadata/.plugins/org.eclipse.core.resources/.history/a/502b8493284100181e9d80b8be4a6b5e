@@ -1,0 +1,14 @@
+package com.vertagon.betterchest.tab;
+
+import net.minecraft.creativetab.CreativeTabs;
+
+public class BetterChestTab extends CreativeTabs{
+
+	public BetterChestTab(int index, String label) {
+		super(p_i1853_1_, p_i1853_2_);
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	
+}

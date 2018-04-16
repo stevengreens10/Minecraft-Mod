@@ -1,0 +1,7 @@
+package com.vertagon.betterchest.tab;
+
+import net.minecraft.creativetab.CreativeTabs;
+
+public class BetterChestTab extends CreativeTabs{
+
+}

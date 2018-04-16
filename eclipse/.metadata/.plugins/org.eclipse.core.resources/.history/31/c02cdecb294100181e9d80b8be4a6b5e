@@ -1,0 +1,10 @@
+
+public class BetterChestItems {
+
+	public static BetterChestItem chestWall;
+	
+	public void setup() {
+		
+	}
+	
+}

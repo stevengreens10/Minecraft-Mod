@@ -1,0 +1,7 @@
+package com.vertagon.betterchest.proxy;
+
+public class ClientProxy extends CommonProxy {
+
+	
+	
+}

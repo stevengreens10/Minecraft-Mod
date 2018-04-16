@@ -1,0 +1,9 @@
+import net.minecraft.item.Item;
+
+public class BetterChestItem extends Item{
+
+	public BetterChestItem(String name) {
+		
+	}
+	
+}
