@@ -1,1 +1,6 @@
 .idea/
+config/
+logs/
+out/
+saves/
+usernamecache.json
